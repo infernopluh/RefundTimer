@@ -6,8 +6,8 @@ namespace RefundTimer
     /// </summary>
     class PluginInfo
     {
-        public const string GUID = "com.64will64.gorillatag.buttoncursor";
-        public const string Name = "ButtonCursor";
+        public const string GUID = "com.walkslow.gorillatag.refundtimer";
+        public const string Name = "Refund Timer";
         public const string Version = "1.0.0";
     }
 }
