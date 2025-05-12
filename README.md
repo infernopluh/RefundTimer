@@ -32,4 +32,4 @@ A simple mod designed to close gorilla tag within the time you need before you c
 - Inspired by refund policies and good time-management.
 
 ---
-**Note:** This mod is for educational purposes. Use responsibly!
+**Note:** This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2021 Another Axiom LLC.
