@@ -24,7 +24,7 @@ A simple mod designed to close gorilla tag within the time you need before you c
 
 ## Customization
 
-- To change the total allowed time, edit the `MaxPlaySeconds` constant in `RefundTimer.cs` and rebuild.
+- To change the total allowed time, edit the `MaxPlaySeconds` constant in `Plugin.cs` and rebuild.
 
 ## Credits
 
